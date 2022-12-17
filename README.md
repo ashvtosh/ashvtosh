@@ -1,7 +1,6 @@
 ## Hey there
 
-I am Ashutosh Singh, currently pursuing Btech - CS at GLA Univeristy, Mathura.
-
+I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in Mathura. A Tech-enthusiast guy who is fully devoted to learning new technologies and know about current happenings in the country.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-b463b116b/)](https://www.linkedin.com/in/ashutosh-singh-b463b116b/)
 [![Gmail Badge](https://img.shields.io/badge/-ashu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh1412003@gmail.com)](mailto:ashutosh1412003@gmail.com)
