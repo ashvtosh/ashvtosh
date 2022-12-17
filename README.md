@@ -23,3 +23,10 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 
 
 ![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&theme=radical)
+
+
+- uses: lowlighter/metrics@latest
+  with:
+    plugin_languages: yes
+    plugin_languages_indepth: yes
+    commits_authoring: firstname lastname, username, username@users.noreply.github.com
