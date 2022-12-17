@@ -17,3 +17,4 @@ I am Ashutosh Singh, currently pursuing Btech - CS at GLA Univeristy, Mathura.
 
 ## Developer/Forum
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/ashvtosh_/)](https://leetcode.com/ashvtosh_/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ashvtosh_?hr_r=1)](https://www.hackerrank.com/ashvtosh_?hr_r=1)
