@@ -22,4 +22,4 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/ashvtosh1)](https://www.codechef.com/users/ashvtosh1)
 
 
-[![stats-card](https://ashvtosh-stats-card.herokuapp.com/svg?user=ashvtosh&theme=dark)](https://github.com/ashvtosh/stats-card)
+[![stats-card](https://ashvtosh-stats-card.herokuapp.com/svg?user=ashvtosh&theme=dark)](https://github.com/ashvtosh/stats-card)]
