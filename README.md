@@ -23,7 +23,4 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 
 
 [![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvtosh)](https://github.com/ashvtosh/github-readme-stats)
-![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvtosh&hide=contribs,prs)
-![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvtosh&count_private=true)
-![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true)
 ![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&theme=radical)
