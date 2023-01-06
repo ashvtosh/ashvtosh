@@ -28,7 +28,7 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 
 <a href="https://github.com/ashvtosh/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashvtosh&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="ashvtoshContribution-graph"></a>
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+
 
 <a href="https://github.com/ashvtosh/"><img src="https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="510" alt="Juletopi-stats"></a>
 <a href="https://github.com/ashvtosh/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvtosh&layout=default&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="310" alt="AshutoshTopLangs-stats"></a>
