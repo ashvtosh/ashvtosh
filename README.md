@@ -32,12 +32,7 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 
 
 ### 📊 Github Stats
-<a href='https://github.com/ashvtosh/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/ashvtosh/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/ashvtosh/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvtosh&layout=compact)](https://github.com/ashvtosh/github-readme-stats)
 
 <br>
 
