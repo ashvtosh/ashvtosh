@@ -36,8 +36,8 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 name: Indepth analysis
 uses: ashvtosh/ashvtosh@latest
 with:
-  filename: metrics.plugin.languages.indepth.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  filename: ashvtosh.plugin.languages.indepth.svg
+  token: ${{ secrets.ASHVTOSH_TOKEN }}
   base: ""
   plugin_languages: yes
   plugin_languages_ignored: >-
