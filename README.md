@@ -11,7 +11,7 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColoe=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
