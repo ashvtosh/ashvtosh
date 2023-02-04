@@ -3,9 +3,11 @@
 I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in Mathura. A Tech-enthusiast guy who is fully devoted to learning new technologies and know about current happenings in the country.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-b463b116b/)](https://www.linkedin.com/in/ashutosh-singh-b463b116b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutosh1412003@gmail.com)](mailto:ashutosh1412003@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:ashutosh1412003@gmail.com)](mailto:ashutosh1412003@gmail.com)
+[!Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&link=https://twitter.com/ashvtosh_)]
+(https://twitter.com/ashvtosh_)
 
-## Technologies
+## Technologies/Databases/Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
