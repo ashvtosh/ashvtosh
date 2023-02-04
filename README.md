@@ -4,7 +4,7 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-b463b116b/)](https://www.linkedin.com/in/ashutosh-singh-b463b116b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:ashutosh1412003@gmail.com)](mailto:ashutosh1412003@gmail.com)
-[!Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&link=https://twitter.com/ashvtosh_)]
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&link=https://twitter.com/ashvtosh_)]
 (https://twitter.com/ashvtosh_)
 
 ## Technologies/Databases/Frameworks
