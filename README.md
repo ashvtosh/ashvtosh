@@ -30,34 +30,6 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 <div align="center">
- [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+[![Stats](https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
-
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1673.00  ┼╮╭╮
- 1662.38  ┤╰╯╰╮
- 1651.75  ┤   ╰─╮
- 1641.12  ┤     ╰─╮
- 1630.50  ┤       ╰╮     ╭───╮    ╭╮                             ╭╮
- 1619.88  ┤        ╰─╮  ╭╯   ╰╮╭╮╭╯╰─╮    ╭╮             ╭──╮   ╭╯╰───╮
- 1609.25  ┤          ╰──╯     ╰╯╰╯   ╰╮╭──╯╰─╮          ╭╯  ╰╮╭─╯     ╰╮╭───╮
- 1598.62  ┤                           ╰╯     ╰──╮      ╭╯    ╰╯        ╰╯   ╰─╮    ╭╮    ╭╮
- 1588.00  ┤                                     ╰╮╭╮ ╭─╯                      ╰╮╭──╯╰╮  ╭╯╰─╮
- 1577.38  ┤                                      ╰╯╰─╯                         ╰╯    ╰──╯   ╰─╮
- 1566.75  ┤                                                                                   ╰╮╭╮
- 1556.12  ┤                                                                                    ╰╯╰───╮
- 1545.50  ┤                                                                                          ╰─╮
- 1534.88  ┤                                                                                            ╰╮╭╮
- 1524.25  ┤                                                                                             ╰╯╰╮
- 1513.62  ┤                                                                                                ╰──
- 1503.00  ┤
-
-Chart last updated - Sun Aug 27 21:34:33 IST 2023  
-  ```
-  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
