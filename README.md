@@ -30,6 +30,8 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 <div align="center">
+<!-- [![Ashu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashvtosh&theme=xcode)](https://github.com/ashvtosh) -->
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
