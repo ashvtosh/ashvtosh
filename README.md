@@ -35,11 +35,7 @@ I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in M
 
 ### 📊 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvtosh&layout=compact&theme=vision-friendly-dark)](https://github.com/ashvtosh/github-readme-stats)
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=onedark)](https://github.com/ashvtosh/github-profile-trophy) -->
-<!-- <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=onedark"><img src="https://github.com/ashvtosh/github-profile-trophy" alt="ashvtosh" /></a> </p> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=onedark" alt="ashvtosh" /></a> </p>
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=darkhub" alt="ashvtosh" /></a> </p> -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=monokai" alt="ashvtosh" /></a> </p> -->
+ </p> -->
 <!-- [![Ashu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashvtosh&theme=xcode)](https://github.com/ashvtosh) -->
 
 
