@@ -2,7 +2,7 @@
 ---
 
 <p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvtoshe&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvtosh&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
