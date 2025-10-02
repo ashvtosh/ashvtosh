@@ -1,57 +1,61 @@
-<!-- Futuristic Header -->
+<!-- Elegant Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ashutosh+Singh;Software+Engineer+%7C+Cloud+%26+AI+Enthusiast;Building+Scalable+%26+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashutosh+Singh;Software+Engineer+%7C+Full-Stack+Developer;Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ Technologies/Databases/Frameworks 
+## ✨ About Me  
 
-<!-- Futuristic Glowing Buttons -->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColoe=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-
+- 🏢 Software Engineer at **Capgemini**  
+- ☁️ Skilled in **Azure Integration Services & Cloud Workflows**  
+- 💻 Full-stack experience in **.NET, React, Node.js**  
+- 📊 Passionate about **data-driven & AI-powered apps**  
 
 ---
 
-## 🔮 Tech Matrix in My Repos  
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashvtosh&theme=dracula"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashvtosh&theme=dracula"/>
+  <!-- Languages -->
+  <a href="#"><img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=coffeescript&logoColor=white&labelColor=3B82F6&color=3B82F6" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white&labelColor=22c55e&color=22c55e" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=white&labelColor=ef4444&color=ef4444" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=white&labelColor=9333ea&color=9333ea" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=black&labelColor=facc15&color=facc15" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=white&labelColor=ea580c&color=ea580c" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3&logoColor=white&labelColor=0ea5e9&color=0ea5e9" /></a>
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <a href="#"><img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=white&labelColor=6366f1&color=6366f1" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white&labelColor=06b6d4&color=06b6d4" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=16a34a&color=16a34a" /></a>
+</p>
+
+<p align="center">
+  <!-- Cloud & DB -->
+  <a href="#"><img src="https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=2563eb&color=2563eb" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL%20Server-black?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=dc2626&color=dc2626" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=16a34a&color=16a34a" /></a>
 </p>
 
 ---
 
-## 📊 Activity Power Levels  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashvtosh&theme=neon&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&theme=neon&hide_border=true" height="160"/>
+  <!-- Your provided SVG block -->
+  <img src="https://raw.githubusercontent.com/ashvtosh/ashvtosh/main/assets/github-metrics.svg" alt="GitHub Stats" width="500"/>
 </p>
 
 ---
 
-## 🌌 Connect With Me  
+## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashutosh-singh-b463b116b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8&labelColor=1a1a1a"/></a>
-  <a href="mailto:ashutosh1412003@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&labelColor=1a1a1a"/></a>
-  <a href="https://github.com/ashvtosh"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white&color=333&labelColor=1a1a1a"/></a>
-</p>
-
----
-
-<!-- Futuristic Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+  <a href="https://linkedin.com/in/ashutosh-singh-b463b116b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashutosh1412003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ashvtosh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
