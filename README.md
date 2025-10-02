@@ -1,61 +1,145 @@
-<!-- Elegant Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashutosh+Singh;Software+Engineer+%7C+Full-Stack+Developer;Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+</p>
+
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+
+---
+
+<p align="left">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  
+  - 🔭 I’m currently working on **[Name of Your Project]**
+  <br>
+  - 🌱 I’m currently learning **[Technology/Language You're Learning]**
+  <br>
+  - 👯 I’m looking to collaborate on **[Types of projects you want to collaborate on]**
+  <br>
+  - 🤔 I’m looking for help with **[A specific problem or technology]**
+  <br>
+  - 💬 Ask me about **[Your area of expertise, e.g., React, Python, Machine Learning]**
+  <br>
+  - 📫 How to reach me: **[your.email@example.com]**
+  <br>
+  - 😄 Pronouns: **[He/Him, She/Her, They/Them, etc.]**
+  <br>
+  - ⚡ Fun fact: **[A fun fact about you or your interests]**
 </p>
 
 ---
 
-## ✨ About Me  
-
-- 🏢 Software Engineer at **Capgemini**  
-- ☁️ Skilled in **Azure Integration Services & Cloud Workflows**  
-- 💻 Full-stack experience in **.NET, React, Node.js**  
-- 📊 Passionate about **data-driven & AI-powered apps**  
+<h3 align="left">🛠️ My Tech Stack:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-
+<h3 align="left">📊 My GitHub Stats:</h3>
 <p align="center">
-  <!-- Languages -->
-  <a href="#"><img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=coffeescript&logoColor=white&labelColor=3B82F6&color=3B82F6" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white&labelColor=22c55e&color=22c55e" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=white&labelColor=ef4444&color=ef4444" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=white&labelColor=9333ea&color=9333ea" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=black&labelColor=facc15&color=facc15" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=white&labelColor=ea580c&color=ea580c" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3&logoColor=white&labelColor=0ea5e9&color=0ea5e9" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="Your GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vision-friendly-dark&hide_border=true" alt="Your GitHub Streak" />
 </p>
-
 <p align="center">
-  <!-- Frameworks -->
-  <a href="#"><img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=white&labelColor=6366f1&color=6366f1" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white&labelColor=06b6d4&color=06b6d4" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=16a34a&color=16a34a" /></a>
-</p>
-
-<p align="center">
-  <!-- Cloud & DB -->
-  <a href="#"><img src="https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=2563eb&color=2563eb" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL%20Server-black?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=dc2626&color=dc2626" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=16a34a&color=16a34a" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+<h3 align="left">📌 Pinned Projects:</h3>
+<table border="1">
+  <tr>
+    <td>
+      <a href="https://github.com/your-github-username/your-repo-name-1"><b>Project Name 1</b></a><br>
+      A brief, one-sentence description of your project. Explain what it does and the problem it solves.
+    </td>
+    <td>
+      <code>#javascript</code> <code>#react</code> <code>#nodejs</code> <code>#mongodb</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/your-github-username/your-repo-name-2"><b>Project Name 2</b></a><br>
+      Another concise description of your project. Highlight its key features or the technology you learned.
+    </td>
+    <td>
+      <code>#python</code> <code>#django</code> <code>#postgresql</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/your-github-username/your-repo-name-3"><b>Project Name 3</b></a><br>
+      Describe this project, focusing on your contributions or the impact it had.
+    </td>
+    <td>
+      <code>#typescript</code> <code>#nextjs</code> <code>#tailwind-css</code>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- Your provided SVG block -->
-  <img src="https://raw.githubusercontent.com/ashvtosh/ashvtosh/main/assets/github-metrics.svg" alt="GitHub Stats" width="500"/>
+---
+
+<h3 align="left">🤝 Connect with Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=kofi&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashutosh-singh-b463b116b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashutosh1412003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ashvtosh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
