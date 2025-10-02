@@ -1,38 +1,55 @@
-## Hey there
+# 👋 Hi, I'm Ashutosh Singh  
 
-I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in Mathura. A Tech-enthusiast guy who is fully devoted to learning new technologies and know about current happenings in the country.
+🚀 Software Engineer at Capgemini | Full-Stack Developer | Cloud Enthusiast  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-b463b116b/)](https://www.linkedin.com/in/ashutosh-singh-b463b116b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:ashutosh1412003@gmail.com)](mailto:ashutosh1412003@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&link=https://twitter.com/ashvtosh_)](https://twitter.com/ashvtosh_)
+💡 Passionate about building scalable applications, cloud integrations, and user-friendly web solutions.  
+🎯 Currently exploring **Azure Integration Services**, **.NET Development**, and **AI-powered applications**.  
 
-## Technologies/Databases/Frameworks
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColoe=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+---
 
-## Developer/Forum
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/ashvtosh_/)](https://leetcode.com/ashvtosh_/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ashvtosh_?hr_r=1)](https://www.hackerrank.com/ashvtosh_?hr_r=1)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/ashvtosh1)](https://www.codechef.com/users/ashvtosh1)
+## 🛠️ Tech Stack  
 
-## IDEs
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <!-- Languages -->
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 
-<div align="center">
-<!-- [![Ashu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashvtosh&theme=xcode)](https://github.com/ashvtosh) -->
+  <!-- Frameworks -->
+  <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvtosh&layout=compact&theme=vision-friendly-dark)](https://github.com/ashvtosh/github-readme-stats)
+  <!-- Cloud & Databases -->
+  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  <!-- Tools -->
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Tech Usage  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvtosh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashutosh-singh-b463b116b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ashutosh1412003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ashvtosh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
