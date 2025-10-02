@@ -5,21 +5,21 @@
 
 ---
 
-## 🛠️ My Tech Universe  
+## 🛠️ Technologies/Databases/Frameworks 
 
 <!-- Futuristic Glowing Buttons -->
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Java-%F0%9F%94%A5-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=1a1a1a&color=ff4500" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-%F0%9F%90%8D-yellow?style=for-the-badge&logo=python&logoColor=black&labelColor=1a1a1a&color=FFD43B" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-%F0%9F%9A%80-blue?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a&color=00599C" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%23-%F0%9F%92%AB-purple?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a1a&color=8A2BE2" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-%F0%9F%92%9C-cyan?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a&color=00CED1" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-%F0%9F%8C%9F-green?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a&color=228B22" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Azure-%E2%9A%A1-skyblue?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a1a1a&color=1E90FF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-%F0%9F%A5%8D-lime?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a&color=32CD32" /></a>
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColoe=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
-⚡ *Each button is styled with emoji, neon colors, and dark panel look — feels like a sci-fi dashboard!*
 
 ---
 
