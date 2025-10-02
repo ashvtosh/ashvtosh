@@ -1,132 +1,38 @@
-<!--
-Hi Ashutosh! Here is the revamped version of your README.
-I've focused on creating a clean, modern, and visually appealing layout
-while using the information you provided.
--->
+## Hey there
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250" />
-</p>
+I am Ashutosh Singh, born in Kanpur, pursuing BTech (CSE) at GLA University in Mathura. A Tech-enthusiast guy who is fully devoted to learning new technologies and know about current happenings in the country.
 
-<h1 align="center">
-Hey there, I'm Ashutosh Singh 👋
-</h1>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-b463b116b/)](https://www.linkedin.com/in/ashutosh-singh-b463b116b/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:ashutosh1412003@gmail.com)](mailto:ashutosh1412003@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&link=https://twitter.com/ashvtosh_)](https://twitter.com/ashvtosh_)
 
-<h3 align="center">
-A tech enthusiast and B.Tech CSE student at GLA University, Mathura.
-</h3>
+## Technologies/Databases/Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColoe=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
-<p align="center">
-<em>
-I'm passionate about diving into new technologies, building things for the web, and staying updated with the world around me.
-</em>
-</p>
+## Developer/Forum
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/ashvtosh_/)](https://leetcode.com/ashvtosh_/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ashvtosh_?hr_r=1)](https://www.hackerrank.com/ashvtosh_?hr_r=1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/ashvtosh1)](https://www.codechef.com/users/ashvtosh1)
 
-<!-- Social & Contact Links -->
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ashutosh-singh-b463b116b/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="mailto:ashutosh1412003@gmail.com" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-c14438%3Fstyle%3Dfor-the-badge%26logo%3DGmail%26logoColor%3Dwhite" alt="Gmail">
-</a>
-<a href="https://twitter.com/ashvtosh" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3DTwitter%26logoColor%3Dwhite" alt="Twitter">
-</a>
-</p>
-
-💻 Tech Stack
-<p align="center">
-<!-- Languages -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP"/>
-</a>
-
-
-
-
-
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
-</a>
-<!-- Backend & Runtimes -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="NodeJS"/>
-</a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/npm-CB3837%3Fstyle%3Dfor-the-badge%26logo%3Dnpm%26logoColor%3Dwhite" alt="NPM"/>
-</a>
-
-
-
-
-
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/>
-</a>
-</p>
-
-🛠️ Tools & IDEs
-<p align="center">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisualstudiocode%26logoColor%3Dwhite" alt="Visual Studio Code"/>
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/IntelliJ_IDEA-000000%3Fstyle%3Dfor-the-badge%26logo%3Dintellijidea%26logoColor%3Dwhite" alt="IntelliJ IDEA"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626%3Fstyle%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite" alt="Jupyter"/>
-</a>
-</p>
-
-📈 Coding Profiles
-<p align="center">
-<a href="https://leetcode.com/ashvtosh_/" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dblack" alt="LeetCode">
-</a>
-<a href="https://www.google.com/search?q=https://www.hackerrank.com/ashvtosh?hr_r=1" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-HackerRank-2EC866%3Fstyle%3Dfor-the-badge%26logo%3DHackerRank%26logoColor%3Dwhite" alt="HackerRank">
-</a>
-<a href="https://www.codechef.com/users/ashvtosh1" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-CodeChef-5B4638%3Fstyle%3Dfor-the-badge%26logo%3DCodeChef%26logoColor%3Dwhite" alt="CodeChef">
-</a>
-</p>
+## IDEs
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 <div align="center">
+<!-- [![Ashu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashvtosh&theme=xcode)](https://github.com/ashvtosh) -->
 
-<!-- Make sure to change the username to your GitHub username -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvtosh&layout=compact&theme=vision-friendly-dark)](https://github.com/ashvtosh/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dashvtosh%26layout%3Dcompact%26theme%3Dvision-friendly-dark%26hide_border%3Dtrue%26langs_count%3D8" />
-</a>
-
-
-
-
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dashvtosh%26theme%3Djuicyfresh%26no-frame%3Dtrue%26row%3D1%26margin-w%3D20%26no-bg%3Dtrue" />
-</a>
-
-</div>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ashvtosh&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
