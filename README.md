@@ -1,30 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
-</p>
-
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
-
+<h1 align="center">Hi there, I'm Ashutosh 👋</h1>
 ---
 
 <p align="left">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-  
-  - 🔭 I’m currently working on **[Name of Your Project]**
-  <br>
-  - 🌱 I’m currently learning **[Technology/Language You're Learning]**
-  <br>
-  - 👯 I’m looking to collaborate on **[Types of projects you want to collaborate on]**
-  <br>
-  - 🤔 I’m looking for help with **[A specific problem or technology]**
-  <br>
-  - 💬 Ask me about **[Your area of expertise, e.g., React, Python, Machine Learning]**
-  <br>
-  - 📫 How to reach me: **[your.email@example.com]**
-  <br>
-  - 😄 Pronouns: **[He/Him, She/Her, They/Them, etc.]**
-  <br>
-  - ⚡ Fun fact: **[A fun fact about you or your interests]**
 </p>
 
 ---
@@ -82,46 +60,13 @@
 
 <h3 align="left">📊 My GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="Your GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashvtosh&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="Your GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vision-friendly-dark&hide_border=true" alt="Your GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashvtosh&theme=vision-friendly-dark&hide_border=true" alt="Your GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashvtosh&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
----
-
-<h3 align="left">📌 Pinned Projects:</h3>
-<table border="1">
-  <tr>
-    <td>
-      <a href="https://github.com/your-github-username/your-repo-name-1"><b>Project Name 1</b></a><br>
-      A brief, one-sentence description of your project. Explain what it does and the problem it solves.
-    </td>
-    <td>
-      <code>#javascript</code> <code>#react</code> <code>#nodejs</code> <code>#mongodb</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/your-github-username/your-repo-name-2"><b>Project Name 2</b></a><br>
-      Another concise description of your project. Highlight its key features or the technology you learned.
-    </td>
-    <td>
-      <code>#python</code> <code>#django</code> <code>#postgresql</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/your-github-username/your-repo-name-3"><b>Project Name 3</b></a><br>
-      Describe this project, focusing on your contributions or the impact it had.
-    </td>
-    <td>
-      <code>#typescript</code> <code>#nextjs</code> <code>#tailwind-css</code>
-    </td>
-  </tr>
-</table>
 
 ---
 
